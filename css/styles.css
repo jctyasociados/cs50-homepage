@@ -1,0 +1,27 @@
+/* Move down content because we have a fixed navbar that is 3.5rem tall */
+body {
+  padding-top: 3.5rem;
+}
+
+p {
+  font-size: 20px;
+}
+
+.hovered {
+  border: 2px solid#000;
+}
+
+.header1{
+  font-size: 40px;
+  font-weight: bold;
+}
+
+p .bold {
+  font-weight: bold;
+}
+
+h2 {
+  font-size: 30px;
+  font-weight: bold;
+}
+
